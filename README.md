@@ -46,7 +46,6 @@ To run the application in development mode:
 npm start
 ```
 ### Images
-
-![mobile](https://github.com/harinath02/To-do-App/assets/106722338/8773fd60-9024-42cd-a059-6e2c15c6227d)
-![ipad](https://github.com/harinath02/To-do-App/assets/106722338/784ac1eb-edb1-4a6c-bebe-e811ab7f9c3b)
-![desktop](https://github.com/harinath02/To-do-App/assets/106722338/7dd327d6-7ae3-44ad-9304-57a521166aa0)
+![mobile](https://github.com/harinath02/To-do-App/assets/106722338/e170f4b2-4290-4ad9-8b9e-e1c58a0019e9)
+![ipad](https://github.com/harinath02/To-do-App/assets/106722338/f6dab364-1b68-43cb-9122-b6da61c94b67)
+![desktop](https://github.com/harinath02/To-do-App/assets/106722338/5ccd2d8a-b538-49eb-81e5-b76c5ecaf4cd)
